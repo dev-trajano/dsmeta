@@ -1,3 +1,6 @@
+import DatePicker from "react-datepicker";
+import "react-datepicker/dist/react-datepicker.css";
+
 import Header from './componets/Header';
 import NotificationButton from './componets/NotificationButton';
 import SalesCard from './componets/SalesCard';
